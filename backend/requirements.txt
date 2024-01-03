@@ -1,0 +1,12 @@
+loguru
+fastapi
+uvicorn
+opencv-python
+numpy
+# redis
+moviepy
+python-multipart
+matplotlib
+
+
+
